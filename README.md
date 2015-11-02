@@ -25,9 +25,9 @@ This example demonstrates:
 
 This example demonstrates:
 
-* Fething a list of JSON object with HTTP
-* Decoding fetched JSON into data types by using `getAndDecode`
+* Fetching a list of JSON object with HTTP
+* Decoding loaded JSON into data types by using `getAndDecode`
 
 ## Contributing
 
-Both corerctions to existing examples and brand new examples are very welcome.
+Both corrections to existing examples and brand new examples are very welcome.
